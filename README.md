@@ -33,7 +33,7 @@ Many professionals, students, and individuals waste significant time and mental 
 The Solution (The "What"):
 DocForm AI is a simple, intelligent assistant designed to automate and simplify document formation. It leverages AI to understand the structure and intent of your raw content and instantly applies consistent, professional formatting.
 
-How It Works:
+## How It Works:
 
 Input Your Content: Paste your text, upload a rough draft, or even provide bullet points.
 
@@ -43,7 +43,7 @@ Smart Formatting Application: It automatically applies appropriate styles (Title
 
 Output & Refinement: You receive a clean, well-formatted document ready for final review. You remain in control, able to make quick tweaks or ask the AI for alternative styles.
 
-Key Features & Benefits:
+## Key Features & Benefits:
 
 Time Savings: Eliminates hours of manual formatting work. Focus on what you write, not how it looks.
 
@@ -55,7 +55,7 @@ Reduced Friction: Lowers the barrier to creating well-structured documents, redu
 
 Simple & Accessible: Designed to be intuitive and user-friendly, requiring no technical or design expertise.
 
-Who It's For:
+## Who It's For:
 
 Students formatting theses, essays, and assignments.
 
@@ -82,9 +82,6 @@ Stop Formatting. Start Creating.
 
 DocForm AI is an intelligent document assistant designed to eliminate the frustrating and time-consuming task of manual document formatting. It automatically transforms your raw content into professionally formatted documents in seconds.
 
-https://img.shields.io/badge/status-active-success
-https://img.shields.io/badge/python-3.8+-blue
-https://img.shields.io/badge/license-MIT-green
 
 ✨ The Problem It Solves
 "I had recent time issues for document formatting. I think so many are facing this problem."
@@ -101,7 +98,7 @@ Managing tables of contents
 
 Ensuring overall document polish
 
-This "formatting dread" distracts from what really matters: your content.
+## This "formatting dread" distracts from what really matters: your content.
 
 🚀 Features
 🤖 Smart Formatting
@@ -303,8 +300,6 @@ Inspired by the countless "Why is this so hard?" moments
 
 📞 Support & Feedback
 Having issues or suggestions? Here's how to reach us:
-
-📧 Email: support@docform-ai.com
 
 🐛 Issues: GitHub Issues
 
